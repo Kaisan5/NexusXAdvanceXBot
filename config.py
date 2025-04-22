@@ -46,7 +46,7 @@ DB_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
 
 # FSUBS configuration
 FSUBS = [
-    {'_id': ,-1002201872723 "CHANNEL_NAME": "stelleron_Hunter"},
+    {'_id': 1, "CHANNEL_ID": -1002201872723, "CHANNEL_NAME": "stelleron_Hunter"},
 ]
 
 
